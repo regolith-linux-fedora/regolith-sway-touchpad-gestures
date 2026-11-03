@@ -3,7 +3,7 @@
 # in regolith-unstable, comes from Fedora Task 05-06.
 
 Name:           regolith-sway-touchpad-gestures
-Version:        0.1.0
+Version:        0.2.0
 Release:        0.1%{?dist}
 Summary:        Sway configuration that enables touchpad gestures for Regolith
 
