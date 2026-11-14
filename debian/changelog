@@ -1,3 +1,10 @@
+regolith-sway-touchpad-gestures (0.1.1-1) noble; urgency=medium
+
+  [ rego-port-bot ]
+  * fix: open the swipe launchers with the look's ilia stylesheet
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sat, 14 Nov 2026 11:41:20 -0800
+
 regolith-sway-touchpad-gestures (0.1.0-4) noble; urgency=medium
 
   [ Khosrow Moossavi ]
